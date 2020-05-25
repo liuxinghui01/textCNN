@@ -1,0 +1,2 @@
+# textCNN
+textCNN using keras
